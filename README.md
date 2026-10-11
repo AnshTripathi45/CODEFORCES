@@ -6,24 +6,34 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 10 |
+| 38 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (14)
-- [implementation](#implementation) (4)
-- [math](#math) (18)
+- [geometry](#geometry) (1)
+- [greedy](#greedy) (17)
+- [implementation](#implementation) (8)
+- [math](#math) (22)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (4)
-- [strings](#strings) (5)
+- [sortings](#sortings) (5)
+- [strings](#strings) (6)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 
 ### constructive algorithms
 
@@ -41,6 +51,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 
 ### dp
 
@@ -54,15 +66,23 @@
 |---|---------|------------|----------|
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2204B | [Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2204/B%20-%20Right%20Maximum/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.cpp) |
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
@@ -72,15 +92,20 @@
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
+| 2157B | [Expansion Plan 2](https://codeforces.com/contest/2157/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2157/B%20-%20Expansion%20Plan%202/solution.cpp) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 
 ### math
 
@@ -90,11 +115,13 @@
 | 2145A | [Candies for Nephews](https://codeforces.com/contest/2145/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2145/A%20-%20Candies%20for%20Nephews/solution.cpp) |
 | 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
 | 2151A | [Incremental Subarray](https://codeforces.com/contest/2151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2151/A%20-%20Incremental%20Subarray/solution.cpp) |
+| 2157B | [Expansion Plan 2](https://codeforces.com/contest/2157/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2157/B%20-%20Expansion%20Plan%202/solution.cpp) |
 | 2203A | [Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2203/A%20-%20Towers%20of%20Boxes/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.cpp) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
@@ -103,6 +130,8 @@
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.cpp) |
 
 ### number theory
@@ -117,6 +146,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
@@ -127,6 +157,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2151A | [Incremental Subarray](https://codeforces.com/contest/2151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2151/A%20-%20Incremental%20Subarray/solution.cpp) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
