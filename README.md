@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 12 |
+| 40 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (3)
@@ -26,6 +27,13 @@
 - [strings](#strings) (6)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2274B | [Prefix](https://codeforces.com/contest/2274/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2274/B%20-%20Prefix/solution.cpp) |
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/anshdtri-hub/CODEFORCES/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 
 ### brute force
 
